@@ -1,84 +1,96 @@
 # PortfoliX
 
-PortfoliX is a premium single-file portfolio generator that creates responsive, animated portfolios from simple user information. It includes a live preview, upload support, smart content tools, multiple themes, draft saving, and one-click HTML export.
+**PortfoliX** is a premium single-file portfolio generator that helps users create responsive, animated portfolios from simple information. It includes a live preview, smart content tools, upload support, multiple themes, save/load drafts, and one-click standalone HTML export.
 
-## Live Demo
+Live Demo: https://portfolix.studio
 
-Add your GitHub Pages or hosting link here:
+---
 
-```text
-https://your-username.github.io/portfolix/
-```
+## Overview
+
+PortfoliX turns basic personal information into a polished portfolio website. Users can add their name, role, bio, skills, projects, education, social links, images, and resume, then instantly preview the generated portfolio and download it as a standalone HTML file.
+
+The project is built as a single HTML file using HTML, CSS, and JavaScript, making it easy to host on GitHub Pages or any static hosting platform.
+
+---
 
 ## Features
 
-- Single HTML file application
+- Premium portfolio builder interface
+- Live generated portfolio preview
 - Cyber Neon default theme
-- Live portfolio preview
-- Phone, tablet, and desktop preview modes
+- Multiple theme options
 - Profile image upload support
 - Project image upload support
 - Resume upload/link support
-- Project and education add/remove system
-- Smart tools for bio polishing and tagline generation
-- Skills suggestion helper
+- Skills, projects, education, and contact sections
+- Smart bio polish tool
+- Tagline generator
+- Project description helper
 - Save and load draft using browser storage
-- View generated HTML code
-- Download standalone portfolio HTML
-- Responsive generated portfolio
-- Premium cinematic UI with animated effects
+- Responsive desktop, tablet, and mobile preview
+- One-click standalone HTML export
+- GitHub Pages deployment friendly
+
+---
 
 ## Tech Stack
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Font Awesome icons
-- Browser LocalStorage
+- LocalStorage
 - FileReader API
+- GitHub Pages
+
+---
+
+## Why I Built This
+
+Many students and developers need a good portfolio but struggle with layout, content writing, and deployment. PortfoliX solves this by giving users a simple builder where they can enter their information and instantly generate a polished portfolio website.
+
+---
 
 ## How to Use
 
-1. Open `index.html` in your browser.
-2. Fill in your portfolio information.
-3. Upload your profile image, project images, and resume if needed.
-4. Choose a theme and preview mode.
-5. Save your draft if you want to continue later.
-6. Click the download option to export your generated portfolio.
-7. Rename the downloaded portfolio file to `index.html` and host it on GitHub Pages, Netlify, or Vercel.
+1. Open the live website.
+2. Fill in your personal information.
+3. Add skills, projects, education, and contact links.
+4. Upload profile/project images if needed.
+5. Use the smart tools to polish bio or generate tagline.
+6. Preview the portfolio in desktop, tablet, or phone mode.
+7. Click **Download HTML** to export your final portfolio.
+8. Rename the downloaded file to `index.html` and host it.
 
-## Deploy on GitHub Pages
+---
 
-1. Create a new GitHub repository named `portfolix`.
-2. Upload the `index.html` file from this project.
-3. Go to repository **Settings**.
-4. Open **Pages**.
-5. Select the branch as `main` and folder as `/root`.
-6. Save and wait for GitHub to publish the site.
-7. Copy your live demo link and add it to this README.
+## Deployment
 
-## Project Description
+You can deploy PortfoliX or any generated portfolio using GitHub Pages.
 
-PortfoliX is a single-file premium portfolio generator that transforms user information into a responsive, animated portfolio. It features live preview, upload support, smart content tools, multiple themes, draft saving, and one-click HTML export, making it easy for students, developers, and designers to create a polished digital identity without backend setup.
+1. Create a GitHub repository.
+2. Upload the `index.html` file.
+3. Go to repository **Settings → Pages**.
+4. Select branch `main` and folder `/root`.
+5. Save and wait for GitHub Pages to publish the site.
 
-## Screenshots
+---
 
-Add screenshots here after deploying:
+## Project Status
 
-```text
-/assets/screenshot-builder.png
-/assets/screenshot-preview.png
-/assets/screenshot-mobile.png
-```
+PortfoliX v1.0 is complete and ready for public use. Future improvements may include more templates, advanced customization, animation controls, and export presets.
 
-## Future Improvements
+---
 
-- More portfolio templates
-- Drag-and-drop section ordering
-- More advanced content generation
-- More export formats
-- Optional backend account system
+## Author
 
-## Credit
+Crafted by **Sama**
 
-© 2026 PortfoliX · Crafted by Sama
+---
+
+## License
+
+Copyright © 2026 Sama.  
+All rights reserved.
+
+This project is publicly visible for demonstration and portfolio purposes. Reuse, redistribution, or claiming this project as your own is not permitted without permission.

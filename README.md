@@ -84,7 +84,7 @@ PortfoliX v1.0 is complete and ready for public use. Future improvements may inc
 
 ## Author
 
-Crafted by **Sama**
+Crafted by  **Sama**
 
 ---
 

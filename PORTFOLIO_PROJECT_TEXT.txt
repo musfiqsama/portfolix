@@ -1,0 +1,25 @@
+Project Title:
+PortfoliX — Premium Portfolio Generator
+
+Short Description:
+PortfoliX is a single-file premium portfolio generator that creates responsive, animated portfolios from user information with live preview, upload support, smart content tools, save/load drafts, and one-click HTML export.
+
+Long Description:
+PortfoliX is a browser-based portfolio builder designed to help users create polished digital portfolios without backend setup. Users can enter their personal details, skills, projects, education, resume, and social links, then instantly preview a cinematic portfolio design. The app supports image uploads, resume upload/link options, smart bio and tagline tools, multiple responsive preview modes, draft saving, and standalone HTML export.
+
+Tech Stack:
+HTML, CSS, JavaScript, LocalStorage, FileReader API, Font Awesome
+
+Key Features:
+- Live portfolio preview
+- Cyber Neon premium UI
+- Profile and project image upload
+- Resume upload/link support
+- Project and education builder
+- Smart bio polish and tagline generator
+- Save/load draft
+- One-click standalone HTML export
+- Phone, tablet, and desktop preview modes
+
+Resume Bullet:
+Built PortfoliX, a single-file portfolio generator using HTML, CSS, and JavaScript with live preview, upload support, local draft saving, smart content tools, responsive preview modes, and standalone HTML export.
